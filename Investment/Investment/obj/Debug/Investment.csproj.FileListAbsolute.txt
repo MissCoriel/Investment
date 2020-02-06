@@ -1,0 +1,6 @@
+C:\Users\missc\source\repos\Investment\Investment\bin\Debug\Investment.dll
+C:\Users\missc\source\repos\Investment\Investment\bin\Debug\Investment.pdb
+C:\Users\missc\source\repos\Investment\Investment\obj\Debug\Investment.csproj.CoreCompileInputs.cache
+C:\Users\missc\source\repos\Investment\Investment\obj\Debug\Investment.dll
+C:\Users\missc\source\repos\Investment\Investment\obj\Debug\Investment.pdb
+C:\Users\missc\source\repos\Investment\Investment\obj\Debug\Investment.csprojAssemblyReference.cache
